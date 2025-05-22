@@ -27,7 +27,7 @@ The age of Taurus (the bull) preceded the Age of Aries. The 'golden calf' repres
 The vernal equinox is approaching Aquarius. According to astrological mysticism, the age of Aquarius is characterized by spiritual enlightenment and unusual harmony and understanding in the world. Unfortunately, there is no evidence that the position of the vernal equinox with respect to the constellations of the Zodiac will bring such harmony.
 
 ### Sources
-[Astrological age](https://en.wikipedia.org/wiki/Astrological_age)\
+[Wikipedia - Astrological age](https://en.wikipedia.org/wiki/Astrological_age)\
 [Highline College - Cycles](https://people.highline.edu/iglozman/classes/astronotes/cycles.htm)
 
 # Astroages
