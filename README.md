@@ -6,7 +6,9 @@ Hipparchus' calculation of the precession rate was remarkably close to the moder
 The recognition of precession had profound implications for astrology, particularly in the development of the concept of astrological ages.\
 As the equinoxes precess through the zodiac, they mark the beginning and end of these ages, each lasting roughly 2,160 years, based on the 12 zodiacal constellations.\
 
-![Picture showing precession in relation to the zodiac](https://people.highline.edu/iglozman/classes/astronotes/media/zodiacage.gif)
+<p align="center">
+  ![Picture showing precession in relation to the zodiac](https://people.highline.edu/iglozman/classes/astronotes/media/zodiacage.gif)
+</p>
 
 ## Astrological ages
 The shift from one age to another astrological age is thought to bring about significant cultural and spiritual changes, a belief that has influenced astrological thought since antiquity.\
