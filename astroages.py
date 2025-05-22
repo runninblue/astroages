@@ -88,7 +88,7 @@ def process_records(records):
     return records    
 
 def get_astrological_ages(conn, cur, start_year, end_year):
-    sql_query = f"SELECT * FROM generate_zodiac_timeline({start_year}{',' if start_year or end_year else ''}{end_year})"
+    sql_query = f"SELECT * FROM generate_zodiac_timeline({start_year}{',' if start_year else ''}{end_year})"
     cur.execute(sql_query)
     records = [list(r) for r in cur.fetchall()]
     cur.close()
