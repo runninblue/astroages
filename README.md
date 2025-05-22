@@ -11,8 +11,7 @@ As the equinoxes precess through the zodiac, they mark the beginning and end of 
 </p>
 
 ## Astrological Ages
-The shift from one age to another astrological age is thought to bring about significant cultural and spiritual changes, a belief that has influenced astrological thought since antiquity.\
-Astrologers tend to view different historical periods as being dominated by the influence of particular signs.\
+The shift from one age to another astrological age is thought to bring about significant cultural and spiritual changes, a belief that has influenced astrological thought since antiquity. Astrologers tend to view different historical periods as being dominated by the influence of particular signs.\
 \
 **Pisces**\
 Presently, the vernal equinox is in the constellation Pisces. This age is commonly described as the age of faith and religion. It began roughly with the birth of Christ, about 2000 years ago. The New Testament is replete with fish symbolism. It should not be too surprising, therefore, that the symbol of Christianity has been fish.\
@@ -40,7 +39,7 @@ Astroages is a simple utility written in Python and SQL that uses the CLI to bui
 
 ## Installation
 1. Create a database in PostgreSQL and run the scripts provided in db_scripts
-2. Fill in the database details in db-template.ini and save it as db.ini
+2. Fill in the database details in db-template.ini
 3. Run `pip install -r /path/to/requirements.txt` to install required libraries
 
 ## Usage
