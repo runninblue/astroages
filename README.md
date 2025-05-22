@@ -41,5 +41,5 @@ To run the program use:\
 \
 Arguments are optional.\
 \
-If no arguments are provided the current year is used.\
+If no arguments are provided the current year is used as both starting and ending point.\
 If only one year number is provided and it comes earlier than the current year, it is treated as the start year. If the provided year number comes after the current year, it is treated as the end year.
