@@ -32,7 +32,7 @@ Astroages is a simple utility written in Python and SQL that uses the CLI to bui
 
 ## Installation
 1. Create a database in PostgreSQL and run the scripts provided in db_scripts
-2. Fill in the database details in db.ini
+2. Fill in the database details in db-template.ini and save it as db.ini
 3. Run `pip install -r /path/to/requirements.txt` to install required libraries
 
 ## Usage
