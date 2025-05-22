@@ -37,4 +37,7 @@ Astroages is a simple utility written in Python and SQL that uses the CLI to bui
 
 ## Usage
 To run the program use:\
-`python astroages.py [start_year] [end_year]`
+`python astroages.py [start_year] [end_year]`\
+Arguments are optional.\
+If no arguments are provided the current year is used.\
+If only one year number is provided and it comes earlier than the current year, it is treated as the start year. If the provided year number comes after the current year, it is treated as the end year.
