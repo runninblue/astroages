@@ -19,7 +19,7 @@ The age of Taurus (the bull) preceded the Age of Aries. The 'golden calf' repres
 The vernal equinox is approaching Aquarius. According to astrological mysticism, the age of Aquarius is characterized by spiritual enlightenment and unusual harmony and understanding in the world. Unfortunately, there is no evidence that the position of the vernal equinox with respect to the constellations of the Zodiac will bring such harmony.
 
 ### Sources
-[Astrological age](https://en.wikipedia.org/wiki/Astrological_age)
+[Astrological age](https://en.wikipedia.org/wiki/Astrological_age)\
 [Highline College](https://people.highline.edu/iglozman/classes/astronotes/cycles.htm)
 
 # Astroages
@@ -36,5 +36,4 @@ Astroages is a simple utility written in Python and SQL that uses the CLI to bui
 3. Run `pip install -r /path/to/requirements.txt` to install required libraries
 
 ## Usage
-To run the program use:
-`python astroages.py [start_year] [end_year]`
+To run the program use: `python astroages.py [start_year] [end_year]`
