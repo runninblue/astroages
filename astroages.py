@@ -117,7 +117,7 @@ if __name__ == "__main__":
     HEADERS = ["Age",
            "Start Range",
            "End Range",
-           "Year Count"]
+           "Years Count"]
     
     DB_PARAMS = load_config()
     ARGUMENTS = sys.argv[1:]
