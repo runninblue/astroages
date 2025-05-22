@@ -20,7 +20,7 @@ The vernal equinox is approaching Aquarius. According to astrological mysticism,
 
 ### Sources
 [Astrological age](https://en.wikipedia.org/wiki/Astrological_age)\
-[Highline College](https://people.highline.edu/iglozman/classes/astronotes/cycles.htm)
+[Highline College - Cycles](https://people.highline.edu/iglozman/classes/astronotes/cycles.htm)
 
 # Astroages
 ## Overview
