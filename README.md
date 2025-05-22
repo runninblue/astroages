@@ -7,7 +7,7 @@ The recognition of precession had profound implications for astrology, particula
 As the equinoxes precess through the zodiac, they mark the beginning and end of these ages, each lasting roughly 2,160 years, based on the 12 zodiacal constellations.\
 
 <p align="center">
-  ![Picture showing precession in relation to the zodiac](https://people.highline.edu/iglozman/classes/astronotes/media/zodiacage.gif)
+  <img src="https://people.highline.edu/iglozman/classes/astronotes/media/zodiacage.gif">
 </p>
 
 ## Astrological ages
