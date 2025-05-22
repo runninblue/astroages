@@ -10,16 +10,24 @@ As the equinoxes precess through the zodiac, they mark the beginning and end of 
   <img src="https://people.highline.edu/iglozman/classes/astronotes/media/zodiacage.gif">
 </p>
 
-## Astrological ages
+## Astrological Ages
 The shift from one age to another astrological age is thought to bring about significant cultural and spiritual changes, a belief that has influenced astrological thought since antiquity.\
 Astrologers tend to view different historical periods as being dominated by the influence of particular signs.\
+\
+**Pisces**\
 Presently, the vernal equinox is in the constellation Pisces. This age is commonly described as the age of faith and religion. It began roughly with the birth of Christ, about 2000 years ago. The New Testament is replete with fish symbolism. It should not be too surprising, therefore, that the symbol of Christianity has been fish.\
+\
+**Aries**\
 The preceding age was the Age of Aries, often described by astrologers as an age of aggression and enterprise. The Arian Age ushered in efforts to replace polytheism with monotheism. This is the age of Moses and the Old Testament. The symbol of Aries can be seen as representing the power of multiple gods streaming down into a single god-head. The Jews still blow the shofar (ram’s horn) in commemoration.\
+\
+**Taurus**\
 The age of Taurus (the bull) preceded the Age of Aries. The 'golden calf' represents represents idol worshiping in general and a bull deity in particular, prominent in this age. Moses condemning his own people upon finding them worshiping a 'golden calf' after coming down from Mount Sinai. This condemnation ushers in the next age, the age of the Old Testament, the Age of Aries.\
+\
+**Aquarius**\
 The vernal equinox is approaching Aquarius. According to astrological mysticism, the age of Aquarius is characterized by spiritual enlightenment and unusual harmony and understanding in the world. Unfortunately, there is no evidence that the position of the vernal equinox with respect to the constellations of the Zodiac will bring such harmony.
 
 ### Sources
-[Astrological age](https://en.wikipedia.org/wiki/Astrological_age)\
+[Wikipedia - Astrological age](https://en.wikipedia.org/wiki/Astrological_age)\
 [Highline College - Cycles](https://people.highline.edu/iglozman/classes/astronotes/cycles.htm)
 
 # Astroages
@@ -37,4 +45,9 @@ Astroages is a simple utility written in Python and SQL that uses the CLI to bui
 
 ## Usage
 To run the program use:\
-`python astroages.py [start_year] [end_year]`
+`python astroages.py [start_year] [end_year]`\
+\
+Arguments are optional.\
+\
+If no arguments are provided the current year is used as both starting and ending point.\
+If only one year number is provided and it comes earlier than the current year, it is treated as the start year. If the provided year number comes after the current year, it is treated as the end year.
