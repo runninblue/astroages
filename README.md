@@ -23,7 +23,7 @@ The preceding age was the Age of Aries, often described by astrologers as an age
 **Taurus**\
 The age of Taurus (the bull) preceded the Age of Aries. The 'golden calf' represents represents idol worshiping in general and a bull deity in particular, prominent in this age. Moses condemning his own people upon finding them worshiping a 'golden calf' after coming down from Mount Sinai. This condemnation ushers in the next age, the age of the Old Testament, the Age of Aries.\
 \
-**Aquarius**
+**Aquarius**\
 The vernal equinox is approaching Aquarius. According to astrological mysticism, the age of Aquarius is characterized by spiritual enlightenment and unusual harmony and understanding in the world. Unfortunately, there is no evidence that the position of the vernal equinox with respect to the constellations of the Zodiac will bring such harmony.
 
 ### Sources
