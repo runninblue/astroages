@@ -1,4 +1,4 @@
-import psycopg2, sys, logging
+import psycopg2, sys, logging, os
 from tabulate import tabulate
 from configparser import ConfigParser
 
@@ -99,15 +99,29 @@ def get_astrological_ages(conn, cur, start_year, end_year):
         print("No records found.")
     return records
 
+def load_config():    
+    if not 'db.ini' in os.listdir():
+        if 'db-template.ini' not in os.listdir():
+            logging.critical("Configuration file db-template.ini not found.")
+            exit(1)
+        else:
+            os.rename('db-template.ini', 'db.ini')
+            logging.info("Configuration file db-template.ini renamed to db.ini.")
+    else:
+        logging.info("Configuration file db.ini found.")
+    
+    DB_PARAMS = config()
+    return DB_PARAMS
+
 if __name__ == "__main__":
     HEADERS = ["Age",
            "Start Range",
            "End Range",
            "Year Count"]
     
-    DB_PARAMS = config()
+    DB_PARAMS = load_config()
     ARGUMENTS = sys.argv[1:]
-    
+
     setup_logging()
     logging.info("Program started with arguments: %s", ARGUMENTS)
     logging.info("Checking database configuration...")
